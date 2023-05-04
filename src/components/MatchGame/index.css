@@ -1,0 +1,74 @@
+.app-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+  background-size: cover;
+  height: ;
+}
+
+.main-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.navbar-container {
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.logo-image {
+  height: 30px;
+  width: 150px;
+}
+.score {
+  color: white;
+  font-family: Roboto;
+  font-size: 17px;
+}
+.clock-logo {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.time-count {
+  color: #fec653;
+  font-size: 19px;
+}
+.clock-container {
+  display: flex;
+  color: white;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+.sec-clock-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main-image {
+  max-width: 520px;
+  max-height: 350px;
+}
+.tab-text {
+  color: white;
+  padding: 15px;
+  font-family: Roboto;
+  font-size: 18px;
+}
+.tab-container {
+  display: flex;
+}
+
+.thumbinal-image {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+.ul-thumbinal-container {
+  list-style-type: none;
+  flex-wrap: wrap;
+  display: flex;
+}
